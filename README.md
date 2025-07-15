@@ -25,4 +25,3 @@ This project builds and compares multiple classification models to predict heart
 
 ---
 
-## 🧩 File Structure
