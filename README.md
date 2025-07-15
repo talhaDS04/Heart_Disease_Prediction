@@ -1,8 +1,8 @@
-# ❤️ Heart Disease Prediction
+#  Heart Disease Prediction
 
 Predicting the presence of heart disease using machine learning by analyzing patient clinical data.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project builds and compares multiple classification models to predict heart disease. It follows a complete machine learning pipeline:
 
